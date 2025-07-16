@@ -1,0 +1,1 @@
+rsync -avz --delete target/release/monitoring root@178.209.127.2:/app_pods/monitoring/
